@@ -23,6 +23,8 @@ Postman
 Execução:
 Teste Web – Eclipse IDE
 
+Importar a pasta Test.web no eclipse
+
 Package base = Classe com métodos WebDriver
 Package elementos = Classe com elementos da pagina
 Package runner = Classe onde o teste deve ser executado
