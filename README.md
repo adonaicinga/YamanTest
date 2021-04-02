@@ -11,28 +11,29 @@
 * **Então**	validar produto no carrinho	(Passo)
 
 ## Tecnologias:
-BDD: Cucumber
-Linguagem: Java
+* BDD: Cucumber
+* Linguagem: Java
 
 ## Ferramentas:
-Eclipse IDE for Java EE Developers
-Postman
+* Eclipse IDE for Java EE Developers
+* Postman
  
 
 ## Execução:
-Teste Web – Eclipse IDE
+### Teste Web – Eclipse IDE
 
-Importar a pasta Test.web no eclipse
+**Importar a pasta Test.web no eclipse
 
-Package base = Classe com métodos WebDriver
-Package elementos = Classe com elementos da pagina
-Package runner = Classe onde o teste deve ser executado
-Package steps = Classe com passos de teste
-src/test/resources/bdd.feature = Arquivo cucumber com casos de testes
+* Package base = Classe com métodos WebDriver
+* Package elementos = Classe com elementos da pagina
+* Package runner = Classe onde o teste deve ser executado
+* Package steps = Classe com passos de teste
+* src/test/resources/bdd.feature = Arquivo cucumber com casos de testes
 
 ###Teste API – Postman
 
-Importar o arquivo "teste Api" no postman
-codigos de validação na aba tests
+* Importar o arquivo "teste Api" no postman
+* executar testes
+* codigos de validação na aba tests
  
 
