@@ -5,21 +5,21 @@
 
 ### CT01 - Validar carrinho	Status
 
-**Dado**	que entrar no site “  https:// www.shoestock.com.br”	(Passou)
-**E**	Realizar Busca	(Passou)
-**Quando**	Incluir produto no carrinho	(Passou)
-**Então**	validar produto no carrinho	(Passo)
+* **Dado**	que entrar no site “  https:// www.shoestock.com.br”	(Passou)
+* **E**	Realizar Busca	(Passou)
+* **Quando**	Incluir produto no carrinho	(Passou)
+* **Então**	validar produto no carrinho	(Passo)
 
-##Tecnologias:
+## Tecnologias:
 BDD: Cucumber
 Linguagem: Java
 
-##Ferramentas:
+## Ferramentas:
 Eclipse IDE for Java EE Developers
 Postman
  
 
-##Execução:
+## Execução:
 Teste Web – Eclipse IDE
 
 Importar a pasta Test.web no eclipse
