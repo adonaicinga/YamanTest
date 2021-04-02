@@ -1,15 +1,8 @@
-Automação Shoestock
+# Automação Shoestock
 ---
+Nome:Adonai Marques	
 
 
-
-
-
-Nome(s):	Adonai Marques	
-Data:	08/03/2021	
-Escopo:	Automação site shoestock	
-Premissa:	Testes automatizados	
-		
 Critérios de Aceite Ágeis  - BDD	
 CT01 - Validar carrinho	Status
 Dado	que entrar no site “  https:// www.shoestock.com.br”	(Passou)
