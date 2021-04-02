@@ -1,4 +1,4 @@
-#Automação Shoestock
+Automação Shoestock
 ---
 
 
