@@ -33,7 +33,7 @@
 ### Teste API – Postman
 
 * Importar o arquivo "teste Api" no postman
-* executar testes
-* codigos de validação na aba tests
+* Executar testes
+* Códigos de validação na aba tests
  
 
