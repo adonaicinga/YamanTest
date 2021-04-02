@@ -22,7 +22,7 @@
 ## Execução:
 ### Teste Web – Eclipse IDE
 
-**Importar a pasta Test.web no eclipse
+**Importar a pasta Test.web no eclipse**
 
 * Package base = Classe com métodos WebDriver
 * Package elementos = Classe com elementos da pagina
@@ -30,7 +30,7 @@
 * Package steps = Classe com passos de teste
 * src/test/resources/bdd.feature = Arquivo cucumber com casos de testes
 
-###Teste API – Postman
+### Teste API – Postman
 
 * Importar o arquivo "teste Api" no postman
 * executar testes
