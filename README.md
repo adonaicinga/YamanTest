@@ -1,9 +1,8 @@
 # Automação Shoestock
 ---
-Nome:Adonai Marques	
 
+### Critérios de Aceite Ágeis  - BDD
 
-Critérios de Aceite Ágeis  - BDD	
 CT01 - Validar carrinho	Status
 Dado	que entrar no site “  https:// www.shoestock.com.br”	(Passou)
 E	Realizar Busca	(Passou)
